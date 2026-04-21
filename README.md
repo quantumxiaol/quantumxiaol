@@ -1,4 +1,4 @@
-# Hi, I'm Xiaolong Liu 👋
+# Hi, I'm A.P.Liu 👋
 
 - 🎓 Graduate Student @ ShanghaiTech
 - 🤖 Researching: Large Language Model & Multi-Agent Systems & Medical AI
