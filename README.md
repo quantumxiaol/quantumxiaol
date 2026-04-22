@@ -5,4 +5,5 @@
 - 🌐 [Visit my Portfolio & Blog](https://quantumxiaol.github.io)
 - 📚 [Read my Blog](https://quantumxiaol.github.io/blog)
 - 📚 [Read another Blog](http://blog.inaturephysics.top/)
-- 🎲 [Play Go with my AI](https://quantumxiaol.github.io/Goplayer/)
+- 🎲 [Play My Go with my AI](https://quantumxiaol.github.io/Goplayer/)
+- 🎲 [Play Web Minecraft with my AI](https://quantumxiaol.github.io/web_mc/)
