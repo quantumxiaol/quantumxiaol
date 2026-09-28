@@ -6,3 +6,4 @@
 - 📚 [Read my Blog](https://quantumxiaol.github.io/blog)
 - 📚 [Visit my Website](http://blog.inaturephysics.top/)
 - 🎲 [Play My Go with simple AI](https://quantumxiaol.github.io/Goplayer/)
+- ☁️[Unwinding by watching the clouds](https://quantumxiaol.github.io/cloud/lab/)
